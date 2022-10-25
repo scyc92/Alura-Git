@@ -1,2 +1,2 @@
-git config --local user.name "Seu nome aqui"
-git config --local user.email "seu@email.aqui"
+git config --local user.name "Seu nome aqui" (Username)
+git config --local user.email "seu@email.aqui" (email@email.com)
